@@ -25,3 +25,5 @@ else if (string === string.toUpperCase){
     return `I love you, too.`
   }
 }
+var string = 'myStrinG'
+string.toLowerCase
